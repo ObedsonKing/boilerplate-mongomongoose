@@ -23,7 +23,7 @@ const findPersonById = (personId, done) => {
   done(null /*, data*/);
 };
 
-const findEditThenSave = (personId, done) => {
+const findEditThenSave = ( personId, done) => {
   const foodToAdd = "hamburger";
 
   done(null /*, data*/);
